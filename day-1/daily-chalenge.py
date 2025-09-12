@@ -1,11 +1,11 @@
-"""#Challenge 1
+#Challenge 1
 number = int(input("Enter a number: "))
 length = int(input("Enter a length: "))
 result = []
 for i in range(length):
     result.append(number*(i+1))
 print(result)
-"""
+
 
 
 #Challenge 2
